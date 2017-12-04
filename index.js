@@ -13,4 +13,4 @@ createFareMultiplier (mulitplier){
   return fareMultiplier (fare){
     return mulitplier * fare;
   }
-};
+}
